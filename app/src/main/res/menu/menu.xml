@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/activity"
+          android:title="intent activity"/>
+    <item android:id="@+id/dialog"
+          android:title="dialog"/>
+    <item android:id="@+id/preferences"
+          android:title="preferences"/>
+    <item android:id="@+id/save"
+          android:title="save"/>
+    <item android:id="@+id/sensorData"
+          android:title="sensor data"/>
+</menu>
